@@ -24,7 +24,7 @@ JavaScript: Para a lógica interativa e dinâmica da interface do usuário, torn
 Backend (Se aplicável):
 
 🚀 Como Executar o Projeto Localmente
-Siga os passos abaixo para configurar e rodar o projeto na sua máquina. Certifique-se de ter [Node.js, Python, Java, etc., dependendo das suas tecnologias] e git instalados.
+Siga os passos abaixo para configurar e rodar o projeto na sua máquina.
 
 1 - Clone o repositório
 
@@ -36,10 +36,10 @@ Siga os passos abaixo para configurar e rodar o projeto na sua máquina. Certifi
 
 Inicie a Aplicação:
 
-A aplicação estará acessível no seu navegador em http://localhost:  .
+A aplicação estará acessível no seu navegador em https://nadson-engineer.github.io/Gerenciador-de-Tarefas-Pessoal/ .
 
 📸 Demonstração
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06f23532-6bdd-4170-8f02-4128e69bec24" />
+<img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/23b080be-71f2-46de-8198-4ae56ce53737" />
 
 🤝 Contribuição
 Contribuições são sempre muito bem-vindas! Se você tiver sugestões, encontrar um bug ou quiser adicionar um novo recurso, sinta-se à vontade para:
