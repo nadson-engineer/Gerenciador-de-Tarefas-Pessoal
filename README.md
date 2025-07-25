@@ -39,7 +39,7 @@ Inicie a Aplicação:
 A aplicação estará acessível no seu navegador em http://localhost:  .
 
 📸 Demonstração
-[Insira aqui uma imagem (screenshot) da sua aplicação em funcionamento. Para um impacto ainda maior, considere adicionar um GIF animado mostrando o fluxo de criação, edição e conclusão de tarefas. Isso é excelente para um recrutador ver o projeto em ação rapidamente!]
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06f23532-6bdd-4170-8f02-4128e69bec24" />
 
 🤝 Contribuição
 Contribuições são sempre muito bem-vindas! Se você tiver sugestões, encontrar um bug ou quiser adicionar um novo recurso, sinta-se à vontade para:
